@@ -1,9 +1,13 @@
+
+<p align="center">
+<img alt="loficity" width="600px" src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif"</img>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Omar Mostafa Amin</h1>
-<h3 align="center">A passionate beginner developer from Egypt trying to be an AI engineer</h3>
+<h3 align="center">A passionate AI engineer developer from Egypt</h3>
 
 - 🔭 I’m currently studying in **Egyptain Academy For Engineering And Advanced Technology (EAEAT)**
-
-- 🌱 I’m currently learning **pyhton**
 
 - 📫 How to reach me **omar12mos12radwan@gmail.com**
 
@@ -12,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -35,4 +41,6 @@
  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/760bb8f8-3a05-4e44-be4d-6d1b2a6e5392/d1nno8d-364adddf-a168-44a1-b5e5-db7e2e779331.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc2MGJiOGY4LTNhMDUtNGU0NC1iZTRkLTZkMWIyYTZlNTM5MlwvZDFubm84ZC0zNjRhZGRkZi1hMTY4LTQ0YTEtYjVlNS1kYjdlMmU3NzkzMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SIYcpgo6CrC3ucFcFCIAxRYhR-hFZK_0_NJlE7Z_67I"/>
+</p>
